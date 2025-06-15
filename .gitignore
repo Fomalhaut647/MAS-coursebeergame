@@ -229,6 +229,6 @@ pyrightconfig.json
 
 test.py
 
-example.py
-
 models/
+
+*.tex
